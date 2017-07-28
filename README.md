@@ -6,7 +6,7 @@ Uses 3v4l.org to upload PHP code
 This repo is located here:
 https://github.com/onlineth/3v4l_Uploader
 
-[Imgur](http://i.imgur.com/hKvEzFF.gifv)
+![Imgur](http://i.imgur.com/Q2YlcwK.gif)
 
 Usage
 -------------
