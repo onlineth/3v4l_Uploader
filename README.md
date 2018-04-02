@@ -1,4 +1,7 @@
 # 3v4l_Uploader
+
+[![Package Control month downloads](https://img.shields.io/packagecontrol/dt/3v4l%20Uploader.svg)](https://packagecontrol.io/packages/3v4l%20Uploader)
+
 A SublimeText Package to upload PHP Scripts to 3v4l
 
 Uses 3v4l.org to upload PHP code
